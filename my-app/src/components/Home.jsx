@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <ImageBackground source={image} resizeMode='cover'>
       <View style={styles.container}>
-        <Text style={styles.text}> Mi Seekitup</Text>
+        <Text style={styles.text}> Mi Seekitupp</Text>
         
       </View>
     </ImageBackground>
